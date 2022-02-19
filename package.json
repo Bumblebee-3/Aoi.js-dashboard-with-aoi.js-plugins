@@ -1,0 +1,19 @@
+{
+  "name": "usefulmonumentalembed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aoi.js": "^5.1.0",
+    "aoi.js-plugins": "^1.5.3",
+    "discord-oauth2": "^2.9.0",
+    "express": "^4.17.2",
+    "express-session": "^1.17.2"
+  }
+}
