@@ -19,7 +19,7 @@ const plugins=require("aoi.js-plugins");
 const dash = new plugins.Dash({
   bot:bot,
   port:"3000",
-  clientID:bot.user.id,
+  clientID:config.id,
   clientSecret:config.secret,
   redirectURI:config.redirect
   
