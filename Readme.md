@@ -16,3 +16,5 @@
 - [Bumblebee [owner/ dev]](https://discord.com/users/818377414367379487) 
 - [Fight Farewell Fearless - he helped me a lot, <3 Thanks](https://discord.com/users/694184230271451166)
 - [W3Schools - referred to it a lot XD](https://www.w3schools.com/)
+
+## Quick note, you will need to run the "!help" command atleast once, in the server before you change its prefix from the dashboard!
