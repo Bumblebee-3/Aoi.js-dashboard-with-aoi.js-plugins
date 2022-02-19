@@ -11,7 +11,7 @@ const bot = new aoijs.Bot({
 })
 const oneDay=1000 * 60 * 60 * 24;
 const app = express()
-app.use(session({ secret:process.env.sec, cookie: { maxAge: oneDay }}))
+app.use(session({ secret:"bumblebee is pro", cookie: { maxAge: oneDay }}))
 
 
 
