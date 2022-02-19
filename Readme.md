@@ -3,6 +3,8 @@
 - [aoi.js](https://www.npmjs.com/package/aoi.js)
 - [aoi.js-plugins](https://www.npmjs.com/package/aoi.js-plugins)
 - [path](https://www.npmjs.com/package/path)
+- [express](https://www.npmjs.com/package/express)
+- [express-session](https://www.npmjs.com/package/express-session)
 ### Useage
 (1) Go to config.js and add everything there( most of it is self explanatory.)
 
