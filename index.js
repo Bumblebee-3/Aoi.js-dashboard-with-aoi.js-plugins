@@ -25,14 +25,26 @@ const dash = new plugins.Dash({
   
   
 })
+
+
 bot.variables({
   prefix:"!"
 })
 
 bot.onMessage()
+
+bot.readyCommand({
+  channel:"channel id",
+  code:`$forEachGuild[1s;{};pain;]`
+})
+bot.awaitedCommand({
+  name:"pain",
+  code:`$setServerVar[prefix;$getServerVar[prefix]]`
+})
+
 bot.command({
   name:"help",
-  code:`A simple bot to connect with a dashboard.\n**Server Prefix:** \`$getServerVar[prefix]\``
+  code:`A simple bot to connect with a dashboard.\n**Server Prefix:** \`$getServerVar[prefix]\`. To change the prefix use <prefix>prefix <newprefix>`
 })
 bot.command({
   name:"prefix",
