@@ -17,3 +17,11 @@
 - [Fight Farewell Fearless - he helped me a lot, <3 Thanks](https://discord.com/users/694184230271451166)
 - [W3Schools - referred to it a lot XD](https://www.w3schools.com/)
 
+### Possible errors:
+- Cannot read properties of undefined (reading "replace")
+![error](https://media.discordapp.net/attachments/878880487681179678/945271608694689792/unknown.png)
+**Solution: ** The error is a one time error, but if you get it repeatedly, omit the `.replace("undefined","")`.
+
+- 400 Bad request
+![error](https://media.discordapp.net/attachments/878880487681179678/945272452240515123/20220219_172243.png)
+**Solution: **This happens when you try to fetch data from an api without signing in. Re-Start the code and then login.
