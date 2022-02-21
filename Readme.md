@@ -22,10 +22,10 @@
 
 ![error](https://media.discordapp.net/attachments/878880487681179678/945271608694689792/unknown.png)
 
-**Solution: ** The error is a one time error, but if you get it repeatedly, omit the `.replace("undefined","")`.
+**Solution:** The error is a one time error, but if you get it repeatedly, omit the `.replace("undefined","")`.
 
 - 400 Bad request
 
 ![error](https://media.discordapp.net/attachments/878880487681179678/945272452240515123/20220219_172243.png)
 
-**Solution: **This happens when you try to fetch data from an api without signing in. Re-Start the code and then login.
+**Solution:** This happens when you try to fetch data from an api without signing in. Re-Start the code and then login.
