@@ -29,3 +29,5 @@
 ![error](https://media.discordapp.net/attachments/878880487681179678/945272452240515123/20220219_172243.png)
 
 **Solution:** This happens when you try to fetch data from an api without signing in. Re-Start the code and then login.
+
+## Facing any issues? DM me on discord: Blurr#1447 / create an issue
