@@ -13,7 +13,7 @@
 (3) Under "Redirects" add your website link/callback a.k.a. <https://example.com/callback>
 
 ### Credits:
-- [Bumblebee [owner/ dev]](https://discord.com/users/818377414367379487) 
+- [Bumblebee [owner/ dev]](https://github.com/Bumblebee-3) 
 - [Fight Farewell Fearless - he helped me a lot, <3 Thanks](https://discord.com/users/694184230271451166)
 - [W3Schools - referred to it a lot XD](https://www.w3schools.com/)
 
@@ -30,4 +30,4 @@
 
 **Solution:** This happens when you try to fetch data from an api without signing in. Re-Start the code and then login.
 
-## Facing any issues? DM me on discord: Blurr#1447 / create an issue
+## Facing any issues? Create an issue to the repo
