@@ -1,14 +1,13 @@
 {
   "name": "aoi.js-dashboard",
   "version": "1.0.0",
-  "description": "",
+  "description": "Example Dashboard For Aoi.js Bots with aoi.js plugins",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["aoi.js","dashboard","aoijs plugins","aoijs","bdfd dashboard","dbdjs","dbd.js","aoijs panel"],
+  "author": "Bumblebee-3",
   "dependencies": {
     "aoi.js": "^5.1.0",
     "aoi.js-plugins": "^1.5.3",
